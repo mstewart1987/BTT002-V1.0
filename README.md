@@ -9,7 +9,7 @@
 * The green and white wires need to move over 1 spot each respectively.
    Original MMU Wiring | BTT002v1.0 TFT Wiring
    ------------------- | ----------------------
-   ![Original MMU Wiring](/images/Original%20MMU.jpg) | *![BTT002v1.0 TFT Wiring](/images/Fixed%20mmu.jpeg)
+   ![Original MMU Wiring](/images/Original%20MMU.jpg) | ![BTT002v1.0 TFT Wiring](/images/Fixed%20mmu.jpeg)
 * This then connects to the TFT port on the BTT002 board.
   ![Side View](/images/mmu1.jpeg)
   ![Top View](/images/mmu2.jpeg)
